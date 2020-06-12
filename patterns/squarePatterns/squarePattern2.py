@@ -1,7 +1,13 @@
-
-
-
-
+# * * * * * * * * * *
+# *                 *
+# *                 *
+# *                 *
+# *                 *
+# *                 *
+# *                 *
+# *                 *
+# *                 *
+# * * * * * * * * * *
 
 rNc = int(input("enter number of rows: "))
 for r in range(rNc):
